@@ -1,0 +1,29 @@
+#canvasContainer {
+  width: 800px;
+  height: 550px;
+  margin: 0 auto;
+  margin-top: 20px;
+  background-color: tomato;
+  padding: 50px 50px 0 50px;
+  box-sizing: border-box;
+}
+.clear {clear:both;}
+.knob-box {
+  margin-top: 15px;
+  display:inline-block;
+}
+body {
+  margin: 0;
+}
+.right{
+  float:right;
+}
+.left {
+  float:left;
+}
+#reset {
+  margin-left: 165px;
+  width: 70px;
+  margin-top: 70px;
+  height: 40px;
+}
